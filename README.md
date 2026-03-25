@@ -26,4 +26,4 @@ Instructions on how to experience ATIMONLAM composition in 5.1 sound with headph
 <img width="213" height="50" alt="image" src="https://github.com/user-attachments/assets/73b30014-a585-422c-9c41-23a5b206ff19" />
 
 
-For an ideal spatial sound I suggest you to use high quality (open) headphones, I'm using Sennheiser HD 560S.
+For the ideal spatial sound I suggest you to use high quality (open) headphones, I'm using Sennheiser HD 560S.
