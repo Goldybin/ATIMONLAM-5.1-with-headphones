@@ -9,7 +9,7 @@ Instructions on how to experience ATIMONLAM composition in 5.1 sound with headph
 
 4. Download and install DearVR Monitor plugin (https://mega.nz/file/q5BRQaKK#DeRiKDaHlaPMpUS1Ask1eCVim56q4OjhzU2lMLevHHg), this plugin was made free to use by Sehnheiser
 
-5. Open Reaper and drag ATIMONLAM_5.1.wav to the main window:
+5. Open Reaper and drag ATIMONLAM_5.1.wav into the main window:
 
 <img width="699" height="204" alt="image" src="https://github.com/user-attachments/assets/ba0e719b-8e21-47d2-898a-9993ef1416fb" />
 
