@@ -1,5 +1,5 @@
 # ATIMONLAM 5.1 sound with headphones
-Instructions on how to hear ATIMONLAM composition in 5.1 sound with headphones.
+Instructions on how to experience ATIMONLAM composition in 5.1 sound with headphones.
 
 1. Purchase the track https://www.shangshungpublications.com/en/products/product/atimonlam-english (also available in other languages)
 
