@@ -13,7 +13,7 @@ Instructions on how to experience ATIMONLAM composition in 5.1 sound with headph
 
 <img width="699" height="204" alt="image" src="https://github.com/user-attachments/assets/ba0e719b-8e21-47d2-898a-9993ef1416fb" />
 
-6. Add DearVR Monitor through FX button on the left
+6. Add DearVR Monitor through the FX button on the left
 
 7. Arrange settings as you see on this screenshot:
 
