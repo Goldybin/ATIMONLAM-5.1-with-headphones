@@ -19,7 +19,7 @@ Instructions on how to hear ATIMONLAM composition in 5.1 sound with headphones.
 
 <img width="1316" height="732" alt="image" src="https://github.com/user-attachments/assets/2c6d9b6f-9f42-45a0-aeb7-549a9b2379cc" />
 
-(you can also experiment with them if you want, for example Localization can be set to 100, for an even better feeling of space)
+(you can also experiment with them if you want, for example Focus can be set to 100, for an even better feeling of space)
 
 8. Hit play button and enjoy!!! ATIMONLAM in 5.1 sounds absolutely amazing!
 
